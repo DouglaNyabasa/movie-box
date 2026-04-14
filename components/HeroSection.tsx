@@ -2,6 +2,11 @@ import { Popcorn, Search } from "lucide-react";
 import Image from "next/image";
 
 const HeroSection = () => {
+
+
+  
+
+
   return (
     <header className="relative h-[70vh]">
       <div className="w-5/12 z-10 absolute top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2">
